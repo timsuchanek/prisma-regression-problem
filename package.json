@@ -1,0 +1,14 @@
+{
+  "name": "script",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.7.5",
+    "prisma2": "2.0.0-preview-9.1",
+    "ts-node": "8.3.0",
+    "typescript": "3.6.3"
+  },
+  "scripts": {
+    "start": "ts-node ./script.ts",
+    "postinstall": "prisma2 generate"
+  }
+}
