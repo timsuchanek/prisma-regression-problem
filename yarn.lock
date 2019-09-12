@@ -27,10 +27,10 @@ make-error@^1.1.1:
   resolved "https://registry.yarnpkg.com/make-error/-/make-error-1.3.5.tgz#efe4e81f6db28cadd605c70f29c831b58ef776c8"
   integrity sha512-c3sIjNUow0+8swNwVpqoH4YCShKNFkMaw6oH1mNS2haDZQqkeZFlHS3dhoeEbKKmJB4vXpJucU6oH75aDYeE9g==
 
-prisma2@2.0.0-preview-9.1:
-  version "2.0.0-preview-9.1"
-  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-preview-9.1.tgz#b87359de0854a26ebee506bc92c35cfd53355bcd"
-  integrity sha512-nSlPBmmdi7CrFJ+HtumJJak9XepYNfAAd4ZMSB6tbVhIlyXwzzwOVNRyzKQrFXeRalv/hkXnItzU7+A5bT4BYQ==
+prisma2@^2.0.0-alpha.181:
+  version "2.0.0-alpha.181"
+  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-alpha.181.tgz#e9d05348a9923f64d12c69f7269568328fb890fb"
+  integrity sha512-wKvNcY54eqckGmqsUEZD7d93EIUT2jL9Tnqai2yKZ+NInw0dwlqT8jq6aEeq8ibUgx6INDiOkGTSNMPFmfH1dg==
 
 source-map-support@^0.5.6:
   version "0.5.13"
